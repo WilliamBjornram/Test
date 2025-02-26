@@ -6,6 +6,7 @@ import tkinter as tk
 import time
 
 #Testtesttest
+#Här har jag varit och petat
 
 class GameEnv(gymnasium.Env):
     def __init__(self, graph, mode='None'):

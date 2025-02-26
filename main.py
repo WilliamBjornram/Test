@@ -8,6 +8,7 @@ import numpy as np
 import gymnasium
 import random
 
+#Här har jag också varit :=)
 def main(graph):
     
     env = GameEnv(graph)
